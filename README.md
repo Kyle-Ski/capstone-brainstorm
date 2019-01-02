@@ -13,6 +13,25 @@ Come up with 3-5 ideas (or more) that solve a problem or improve a process that 
 * NOTE: If you are struggling to come up with idea, start listing things that you LIKE TO DO or that you HAVE TO DO in your daily life to get the juices flowing. You can also think about what your friends/loved ones might benefit from having.
 * NOTE: If you already have an idea/know what you want to do for your capstone, come up with a couple alternates and then start fleshing out with features, techs, user stories, etc.
 
+Likes:
+* Camping
+  - item checklist with NFC stickers?
+    - scan stickers, then attach them to items
+    - scan items when packing to add to checklist
+* Hiking
+  - EpicMix style app 
+    - compair hike elevation total
+    - track hikes
+    - get badges for different things
+* Backpacking
+* Board Games
+  - my game?
+    - simplify it
+    - unity?
+* RPGs
+* Working Out
+  - motivator?
+    - tracker/motivator
 Ideas:
 
 1. 
@@ -29,11 +48,12 @@ Come up with 3-5 technologies (or more) that you are interested in and curious a
 
 Techs:
 
-1. 
-2. 
-3. 
-4. 
-5. 
+1. Unity/Gaming
+2. AR
+3. PWA's
+4. AI/Machine Learning
+5. Python
+6. Object Detection
 
 ### 1.3 Brainstorm - Pair Share (15 mins)
 
