@@ -45,7 +45,8 @@ Instructor led group discussion of ideas, technologies, etc. building off of wha
 
 ## 2. Developing/Expanding Ideas (10 mins)
 
-Now that you have some personal ideas and tech you're interested in, it's time to start refining them. First, see if there is any overlap between the tech you're into and the personal ideas you have. If there's overlap, awesome; you're on your way to a project. If not, that is totally fine; start thinking of tech that can help your personal ideas or developing ideas that fit the tech you want to use. Once you have 2-3 ideas you want to develop more, start thinking about what kind of **features** that idea would require. Try to come up with at least 5 features for each idea.
+Now that you have some personal ideas and tech you're interested in, it's time to start refining them. First, see if there is any overlap between the tech you're into and the personal ideas you have. If there's overlap, awesome; you're on your way to a project. If not, that is totally fine; start thinking of tech that can help your personal ideas or developing ideas that fit the tech you want to use. Once you have 2-3 ideas you want to develop more, start thinking about what kind of **features** that idea would require. Try to come up with at least 5 features for each idea. Once you finish, try rewriting those features as **user stories**!
+* NOTE: Feel free to work through this section with those near you/your pair from the previous section.
 
 Idea 1 Features: 
 
@@ -81,4 +82,6 @@ Examine your feature lists and evaluate how you feel about each project idea. So
 * Is it something you want to exist in the world?
 * Is it something others would benefit from having access to?
 * Is it something you can imagine spending 10 consecutive days working on?
-* 
+* And more...
+
+If you can say yes to some of the questions above, you probably have a capstone idea! Now you can continue to refine your feature set and user stories. If you can't say yes to any of those questions, you may need to brainstorm some more and discover more ideas.
