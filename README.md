@@ -18,6 +18,8 @@ Likes:
   - item checklist with NFC stickers?
     - scan stickers, then attach them to items
     - scan items when packing to add to checklist
+  - Machine Learning AR item tracking
+    - how much you assist learning
 * Hiking
   - EpicMix style app 
     - compair hike elevation total
@@ -32,6 +34,7 @@ Likes:
 * Working Out
   - motivator?
     - tracker/motivator
+    
 Ideas:
 
 1. 
@@ -52,6 +55,7 @@ Techs:
 2. AR
 3. PWA's
 4. AI/Machine Learning
+  - tensorflow  
 5. Python
 6. Object Detection
 
